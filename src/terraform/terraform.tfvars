@@ -1,6 +1,6 @@
-subscription_id       = "98a0b443-ec66-4cc3-b2ba-4216e56f24d9"
-resource_group_name   = "NBADatalake-RG"
-location              = "westus2"
-storage_account_name  = "nbadatalakesa"   # Must be unique, 3-24 lowercase characters
-container_name        = "highlightsb"      # All lowercase
+subscription_id       = "your_subscription_id"
+resource_group_name   = "your_unique_resource_group_name"
+location              = "eastus2"
+storage_account_name  = "your_unique_storage_account_name"   # Must be unique, 3-24 lowercase characters
+container_name        = "your_unique_container_name"      # All lowercase
 environment           = "dev"
